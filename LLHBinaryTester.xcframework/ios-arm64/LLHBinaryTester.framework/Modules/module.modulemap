@@ -1,0 +1,11 @@
+framework module LLHBinaryTester {
+  umbrella header "LLHBinaryTester.h"
+
+  export *
+  module * { export * }
+}
+
+module LLHBinaryTester.Swift {
+  header "LLHBinaryTester-Swift.h"
+  requires objc
+}
