@@ -174,5 +174,34 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/lilithgames\/workspace\/codes\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTest.swift",
+      "kind": "IntegerLiteral",
+      "offset": 204,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/lilithgames\/workspace\/codes\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTest.swift",
+      "kind": "IntegerLiteral",
+      "offset": 216,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lilithgames\/workspace\/codes\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTest.swift",
+      "kind": "IntegerLiteral",
+      "offset": 239,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lilithgames\/workspace\/codes\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTester\/LLHBinaryTest.swift",
+      "kind": "StringLiteral",
+      "offset": 286,
+      "length": 20,
+      "value": "\"触发一个崩溃\""
+    }
+  ]
 }

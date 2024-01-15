@@ -1,7 +1,7 @@
 framework module LLHBinaryTester {
   umbrella header "LLHBinaryTester.h"
-
   export *
+
   module * { export * }
 }
 
